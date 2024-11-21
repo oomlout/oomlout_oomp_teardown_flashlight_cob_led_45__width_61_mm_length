@@ -1,0 +1,6 @@
+project_id: oomlout_oomp_teardown_flashlight_cob_led_45__width_61_mm_length
+project_name: Oomlout Oomp Teardown Flashlight Cob Led 45  Width 61 Mm Length
+project_repo: https://github.com/oomlout/oomlout_oomp_teardown_flashlight_cob_led_45__width_61_mm_length
+production_format:
+  oolc_1:
+    file_location: source_files/oolc_1.cdr
